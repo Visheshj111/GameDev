@@ -1,0 +1,2 @@
+PrimaryActorTick.bCanEverTick	- 	Critical for performance and understanding Unreal’s update loop.
+PrimaryActorTick.bStartWithTickEnabled	- 	Helps you control when things tick—especially important for AI or actors with conditional behavior.
